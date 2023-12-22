@@ -20,7 +20,7 @@ a task name and a delete button.
 
 ## Screenshots
 
-![HomeScreen](../todoapp/gitimages/HomeScreen.PNG)
-![Form](../todoapp/gitimages/Form.PNG)
-![TodoItems](../todoapp/gitimages/Todo.PNG)
-![StrikeThrough](../todoapp/gitimages/strikethrough.PNG)
+![HomeScreen](./gitimages/HomeScreen.PNG)
+![Form](./gitimages/Form.PNG)
+![TodoItems](./gitimages/Todo.PNG)
+![StrikeThrough](./gitimages/strikethrough.PNG)
